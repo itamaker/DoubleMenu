@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#ffffff</color>
+	<color name="yellow">#f19136</color>
+	<color name="gray">#b7b7b7</color>
+	<color name="dull_gray">#e6e6e6</color>
+	<color name="dark_gray">#4b4e53</color>
+	<color name="black">#000000</color>
+	<color name="red">#FF0000</color>
+	<color name="orange_red">#f15a24</color>
+	<color name="textgray">#434343</color>
+	<color name="textblue">#00318c</color>
+	<color name="textcoffee">#841702</color>
+	<color name="bg_yellow">#fffbfad6</color>
+	<color name="orange">#ff6a10</color>
+
+	<color name="radio_checked">#FFF</color>
+	<color name="comment_color">#505050</color>
+	<color name="radio_unchecked">#FFF</color>
+	<color name="input_focused">#000000</color>
+	<color name="input_nofocused">#8b97ab</color>
+	<color name="textview_group">#C0C0C0</color>
+	<color name="textview_group_textcolor">#FFEC8B</color>
+	<color name="textview_text_textcolor">#FFFFFF</color>
+	<color name="listview_hint">#00000000</color>
+	<color name="button_text_color">#841702</color>
+
+	<color name="relative_press_color">#d8d8d8</color>
+	<color name="relative_mornal_color">#edecec</color>
+
+	<color name="group_mornal_color">#ffffff</color>
+	<color name="group_press_color">#f8c378</color>
+
+	<color name="color_1">#8cc63f</color>
+	<color name="color_2">#89c136</color>
+	<color name="color_3">#86bc2e</color>
+	<color name="color_4">#83b725</color>
+	<color name="color_5">#81b11c</color>
+	<color name="color_6">#7eac13</color>
+	<color name="color_7">#7ba708</color>
+	<color name="color_8">#78a202</color>
+	<color name="color_9">#839f34</color>
+	<color name="color_10">#8e9c67</color>
+	<color name="color_11">#999999</color>
+	<color name="color_12">#a6a6a6</color>
+	<color name="color_13">#b3b3b3</color>
+	<color name="color_14">#bfbfbf</color>
+	<color name="color_15">#cccccc</color>
+	<color name="dull_red">#965619</color>
+	<color name="dull_se">#5b5b5b</color>
+	<color name="green">#78A202</color>
+	<color name="blue">#01ACDC</color>
+	<color name="yellow_color">#F6921E</color>
+	<color name="yellow_selected">#c66b00</color>
+	<color name="transparent">#00000000</color>
+	<color name="address_child">#f4f4f4</color>
+	<color name="gray_white">#FAF9F7</color>
+	<color name="yellowwhite_bg">#f5f2ef</color>
+	<color name="widget_bg">#fafafa</color>
+	<color name="deep_color">#42210B</color>
+	<color name="light_color">#8F877E</color>
+</resources>

@@ -1,0 +1,28 @@
+<cn.doublemenu.com.view.CategoryList
+	android:orientation="vertical" android:background="#88000000"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/categorylist"
+	android:visibility="gone">
+	<ImageView android:layout_height="wrap_content"
+		android:layout_width="wrap_content" android:src="@drawable/trangle_indicate"
+		android:layout_marginBottom="-22.0dip" android:layout_marginLeft="40.0dip" />
+	<RelativeLayout android:layout_height="fill_parent"
+		android:layout_width="fill_parent" android:background="@drawable/addresslist_bg"
+		android:layout_marginRight="15.0dip" android:layout_marginLeft="15.0dip"
+		android:layout_marginTop="15.0dip" android:layout_marginBottom="40.0dip">
+		<LinearLayout android:layout_height="fill_parent"
+			android:layout_width="fill_parent" android:orientation="horizontal"
+			android:paddingTop="2.0dip" android:paddingLeft="1.0dip"
+			android:paddingRight="1.0dip" android:paddingBottom="1.0dip">
+			<ListView android:id="@+id/list_group" android:scrollbars="none"
+				android:background="#00000000" android:layout_width="0.0px"
+				android:layout_height="fill_parent" android:cacheColorHint="#00000000"
+				android:divider="#ffbbbab7" android:dividerHeight="1.0px"
+				android:layout_weight="1.0" />
+			<ListView android:id="@+id/list_child" android:background="#f4f4f4"
+				android:layout_width="0.0px" android:layout_height="fill_parent"
+				android:cacheColorHint="#00000000" android:divider="@null"
+				android:layout_weight="1.0" />
+		</LinearLayout>
+	</RelativeLayout>
+</cn.doublemenu.com.view.CategoryList>
